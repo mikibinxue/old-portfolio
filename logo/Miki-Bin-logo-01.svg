@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 800" style="enable-background:new 0 0 1280 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;}
+	.st3{fill:#FFFF00;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st4{fill:#FFFF00;}
+	.st5{font-family:'IBMPlexMono';}
+	.st6{font-size:36px;}
+</style>
+<title>Miki-Bin-logo-01</title>
+<g id="Layer_4">
+	<path d="M296.3,225h12.2l23.1,61.8l8.1,22.9h0.8l7.8-22.9l23.4-61.8H384v131.8h-9v-89.9c0-9.5,0.8-22.2,1.2-31.2h-0.6l-7.3,22.5
+		l-24.8,63.5h-7.2l-24.5-63.5l-7.8-22.5h-0.4c0.5,9,1.3,21.8,1.3,31.2v89.9h-8.8L296.3,225z"/>
+	<path d="M461.6,348.8h33.9V232.9h-33.9V225h77v7.9h-33.9v115.9h33.9v7.9h-77V348.8z"/>
+	<path d="M624.8,212.9h8.9v105.7h0.8l61.7-57.8h11l-73.5,68.8v27.3h-8.9L624.8,212.9z M659.7,301.1l5.9-6.1l47.8,61.8h-10.2
+		L659.7,301.1z"/>
+	<path d="M628,399h33.4c27.1,0,43.1,10,43.1,32c0,13.7-7.7,24.8-23.3,28.8v0.8c19.5,2.9,31.4,13.5,31.4,31.8
+		c0,25.4-18.2,38.4-48.7,38.4h-36L628,399z M657.7,456.8c27.1,0,37.7-8.7,37.7-25.4c0-17.5-11.9-24.5-36.6-24.5h-21.7v49.9H657.7z
+		 M661.6,522.9c26.8,0,42-9.3,42-30.4c0-19-15-27.8-42-27.8h-24.4v58.2H661.6z"/>
+	<path d="M946.2,434.7h7.5l1,18.4h0.8c11.1-11.9,22.4-20.8,37.9-20.8c23.3,0,34.5,12.6,34.5,38.6v59.8h-8.9v-58.6
+		c0-21.5-8-31.8-27-31.8c-13.6,0-23,7.1-36.9,21.6v68.8h-8.9L946.2,434.7z"/>
+	<line class="st0" x1="299.3" y1="155.6" x2="299.3" y2="235.1"/>
+	<line class="st0" x1="380.8" y1="155.6" x2="380.8" y2="235.1"/>
+	<circle class="st0" cx="293.4" cy="119.7" r="38.3"/>
+	<circle class="st0" cx="380.8" cy="119.7" r="38.3"/>
+	<circle class="st1" cx="292" cy="118.2" r="4.4"/>
+	<circle class="st1" cx="382.3" cy="118.2" r="4.4"/>
+	<line class="st2" x1="835.3" y1="205.9" x2="835.6" y2="530.5"/>
+	<line class="st2" x1="797.6" y1="530.8" x2="874.6" y2="530.5"/>
+	<ellipse class="st3" cx="836.5" cy="190" rx="28.5" ry="11.9"/>
+	<ellipse class="st0" cx="836.5" cy="165.6" rx="53.4" ry="22.2"/>
+	<ellipse class="st0" cx="836" cy="135.7" rx="79.2" ry="28.7"/>
+	<path class="st0" d="M783.1,164.6c0-12.3,23.9-22.2,53.4-22.2s53.4,10,53.4,22.2"/>
+	<path class="st0" d="M808,190c0-6.6,12.8-11.9,28.5-11.9s28.5,5.3,28.5,11.9"/>
+</g>
+<rect x="274.8" y="626.5" class="st4" width="288.9" height="31.8"/>
+<text transform="matrix(1 0 0 1 279.2492 658.3199)" class="st5 st6">please visit:</text>
+<text transform="matrix(1 0 0 1 589.1533 658.3197)" class="st5 st6">mikibinxue.github.io</text>
+</svg>
